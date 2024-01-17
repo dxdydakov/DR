@@ -1,4 +1,4 @@
-# DR
+# Basic solution for diabetich retinopathy classification.
 <img src='https://llhhospital.com/wp-content/uploads/2023/05/Diabetic-Retinopathy.jpg'>
 
 Данный репозиторий содержит решение второго домашнего задания. Полное решение разделено на 2 файла (+ черновик):
